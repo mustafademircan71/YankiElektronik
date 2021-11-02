@@ -1,0 +1,12 @@
+C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.DataAccess\bin\Debug\netstandard2.1\Yanki.DataAccess.deps.json
+C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.DataAccess\bin\Debug\netstandard2.1\Yanki.DataAccess.dll
+C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.DataAccess\bin\Debug\netstandard2.1\Yanki.DataAccess.pdb
+C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.DataAccess\bin\Debug\netstandard2.1\Yanki.Entity.dll
+C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.DataAccess\bin\Debug\netstandard2.1\Yanki.Entity.pdb
+C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.DataAccess\obj\Debug\netstandard2.1\Yanki.DataAccess.csprojAssemblyReference.cache
+C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.DataAccess\obj\Debug\netstandard2.1\Yanki.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.DataAccess\obj\Debug\netstandard2.1\Yanki.DataAccess.AssemblyInfo.cs
+C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.DataAccess\obj\Debug\netstandard2.1\Yanki.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.DataAccess\obj\Debug\netstandard2.1\Yanki.DataAccess.csproj.CopyComplete
+C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.DataAccess\obj\Debug\netstandard2.1\Yanki.DataAccess.dll
+C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.DataAccess\obj\Debug\netstandard2.1\Yanki.DataAccess.pdb

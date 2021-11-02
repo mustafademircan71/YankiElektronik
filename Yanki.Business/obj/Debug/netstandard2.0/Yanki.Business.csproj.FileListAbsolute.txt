@@ -1,0 +1,9 @@
+C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.Business\bin\Debug\netstandard2.0\Yanki.Business.deps.json
+C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.Business\bin\Debug\netstandard2.0\Yanki.Business.dll
+C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.Business\bin\Debug\netstandard2.0\Yanki.Business.pdb
+C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.Business\obj\Debug\netstandard2.0\Yanki.Business.csprojAssemblyReference.cache
+C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.Business\obj\Debug\netstandard2.0\Yanki.Business.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.Business\obj\Debug\netstandard2.0\Yanki.Business.AssemblyInfo.cs
+C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.Business\obj\Debug\netstandard2.0\Yanki.Business.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.Business\obj\Debug\netstandard2.0\Yanki.Business.dll
+C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.Business\obj\Debug\netstandard2.0\Yanki.Business.pdb
