@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Vp4+jKAEiIArlBG4eof17kfJAXKmr7c9b4GhT+5kqjrrdIMqYENk4ajlp+uTOJcNePO6Z3ERaSQileC1IDON3w==",
+  "dgSpecHash": "uh5Zh+j+cCmGrp4rVJGsE7PTjq699IgkS6yuvNdd6J+inHTpDfyuFSuKWzlUfkHlL3c+MEL8qU1a17zeSWNi+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mustafa\\Desktop\\YankiElektronik\\YankiComputer\\Yanki.Entity\\Yanki.Entity.csproj",
+  "projectFilePath": "C:\\Users\\Oğuzhan\\Source\\Repos\\YankiElektronik-1\\Yanki.Entity\\Yanki.Entity.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Mustafa\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    "C:\\Users\\Oğuzhan\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

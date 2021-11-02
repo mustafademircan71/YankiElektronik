@@ -7192,26 +7192,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mustafa\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Oğuzhan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mustafa\\Desktop\\YankiElektronik\\YankiComputer\\Yanki.Business\\Yanki.Business.csproj",
+      "projectUniqueName": "C:\\Users\\Oğuzhan\\Source\\Repos\\YankiElektronik-1\\Yanki.Business\\Yanki.Business.csproj",
       "projectName": "Yanki.Business",
-      "projectPath": "C:\\Users\\Mustafa\\Desktop\\YankiElektronik\\YankiComputer\\Yanki.Business\\Yanki.Business.csproj",
-      "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mustafa\\Desktop\\YankiElektronik\\YankiComputer\\Yanki.Business\\obj\\",
+      "projectPath": "C:\\Users\\Oğuzhan\\Source\\Repos\\YankiElektronik-1\\Yanki.Business\\Yanki.Business.csproj",
+      "packagesPath": "C:\\Users\\Oğuzhan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Oğuzhan\\Source\\Repos\\YankiElektronik-1\\Yanki.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+        "C:\\Users\\Oğuzhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -7219,7 +7216,6 @@
         "netstandard2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -7227,11 +7223,11 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Users\\Mustafa\\Desktop\\YankiElektronik\\YankiComputer\\Yanki.DataAccess\\Yanki.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Mustafa\\Desktop\\YankiElektronik\\YankiComputer\\Yanki.DataAccess\\Yanki.DataAccess.csproj"
+            "C:\\Users\\Oğuzhan\\Source\\Repos\\YankiElektronik-1\\Yanki.DataAccess\\Yanki.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Oğuzhan\\Source\\Repos\\YankiElektronik-1\\Yanki.DataAccess\\Yanki.DataAccess.csproj"
             },
-            "C:\\Users\\Mustafa\\Desktop\\YankiElektronik\\YankiComputer\\Yanki.Entity\\Yanki.Entity.csproj": {
-              "projectPath": "C:\\Users\\Mustafa\\Desktop\\YankiElektronik\\YankiComputer\\Yanki.Entity\\Yanki.Entity.csproj"
+            "C:\\Users\\Oğuzhan\\Source\\Repos\\YankiElektronik-1\\Yanki.Entity\\Yanki.Entity.csproj": {
+              "projectPath": "C:\\Users\\Oğuzhan\\Source\\Repos\\YankiElektronik-1\\Yanki.Entity\\Yanki.Entity.csproj"
             }
           }
         }
@@ -7260,7 +7256,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
