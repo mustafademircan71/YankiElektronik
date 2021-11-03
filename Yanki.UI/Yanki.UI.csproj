@@ -21,6 +21,7 @@
   <ItemGroup>
     <Folder Include="Areas\AdminPanel\Data\" />
     <Folder Include="Areas\AdminPanel\Models\" />
+    <Folder Include="Areas\AdminPanel\Views\Shared\" />
   </ItemGroup>
 
 </Project>

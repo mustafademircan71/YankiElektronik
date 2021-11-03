@@ -12,6 +12,7 @@ namespace Yanki.Business.Abstract
         void AdminUpdate(Admin admin);
         List<Admin> GetList();
         Admin GetById(int id);
+        Admin AdminLogin(string email, string password);
         
     }
 }

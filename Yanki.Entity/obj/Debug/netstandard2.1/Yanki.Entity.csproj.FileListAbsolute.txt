@@ -7,3 +7,12 @@ C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.Entity\obj\Debug\ne
 C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.Entity\obj\Debug\netstandard2.1\Yanki.Entity.csproj.CoreCompileInputs.cache
 C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.Entity\obj\Debug\netstandard2.1\Yanki.Entity.dll
 C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.Entity\obj\Debug\netstandard2.1\Yanki.Entity.pdb
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Entity\bin\Debug\netstandard2.1\Yanki.Entity.deps.json
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Entity\bin\Debug\netstandard2.1\Yanki.Entity.dll
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Entity\bin\Debug\netstandard2.1\Yanki.Entity.pdb
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Entity\obj\Debug\netstandard2.1\Yanki.Entity.csprojAssemblyReference.cache
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Entity\obj\Debug\netstandard2.1\Yanki.Entity.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Entity\obj\Debug\netstandard2.1\Yanki.Entity.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Entity\obj\Debug\netstandard2.1\Yanki.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Entity\obj\Debug\netstandard2.1\Yanki.Entity.dll
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Entity\obj\Debug\netstandard2.1\Yanki.Entity.pdb

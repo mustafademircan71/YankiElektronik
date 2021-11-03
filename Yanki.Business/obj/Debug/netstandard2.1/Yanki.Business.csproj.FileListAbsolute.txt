@@ -12,3 +12,17 @@ C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.Business\obj\Debug\
 C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.Business\obj\Debug\netstandard2.1\Yanki.Business.csproj.CopyComplete
 C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.Business\obj\Debug\netstandard2.1\Yanki.Business.dll
 C:\Users\Mustafa\Desktop\YankiElektronik\YankiComputer\Yanki.Business\obj\Debug\netstandard2.1\Yanki.Business.pdb
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Business\obj\Debug\netstandard2.1\Yanki.Business.csprojAssemblyReference.cache
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Business\obj\Debug\netstandard2.1\Yanki.Business.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Business\obj\Debug\netstandard2.1\Yanki.Business.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Business\obj\Debug\netstandard2.1\Yanki.Business.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Business\obj\Debug\netstandard2.1\Yanki.Business.dll
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Business\obj\Debug\netstandard2.1\Yanki.Business.pdb
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Business\bin\Debug\netstandard2.1\Yanki.Business.deps.json
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Business\bin\Debug\netstandard2.1\Yanki.Business.dll
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Business\bin\Debug\netstandard2.1\Yanki.Business.pdb
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Business\bin\Debug\netstandard2.1\Yanki.DataAccess.dll
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Business\bin\Debug\netstandard2.1\Yanki.Entity.dll
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Business\bin\Debug\netstandard2.1\Yanki.DataAccess.pdb
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Business\bin\Debug\netstandard2.1\Yanki.Entity.pdb
+C:\Users\Mustafa\source\repos\YankiElektronik\Yanki.Business\obj\Debug\netstandard2.1\Yanki.Business.csproj.CopyComplete

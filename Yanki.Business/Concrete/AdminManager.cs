@@ -24,6 +24,11 @@ namespace Yanki.Business.Concrete
             _adminDal.Delete(admin);
         }
 
+        public Admin AdminLogin(string email, string password)
+        {
+           return _adminDal.AdminLogin(email, password);
+        }
+
         public void AdminUpdate(Admin admin)
         {
             _adminDal.Update(admin);

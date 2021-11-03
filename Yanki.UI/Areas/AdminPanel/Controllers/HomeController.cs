@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Yanki.UI.Areas.AdminPanel.Controllers
 {
+    [Area("AdminPanel")]
     public class HomeController : Controller
     {
         public IActionResult Index()

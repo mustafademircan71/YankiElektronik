@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oğuzhan\\Source\\Repos\\YankiElektronik-1\\Yanki.Entity\\Yanki.Entity.csproj": {}
+    "C:\\Users\\Mustafa\\source\\repos\\YankiElektronik\\Yanki.Entity\\Yanki.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oğuzhan\\Source\\Repos\\YankiElektronik-1\\Yanki.Entity\\Yanki.Entity.csproj": {
+    "C:\\Users\\Mustafa\\source\\repos\\YankiElektronik\\Yanki.Entity\\Yanki.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oğuzhan\\Source\\Repos\\YankiElektronik-1\\Yanki.Entity\\Yanki.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Mustafa\\source\\repos\\YankiElektronik\\Yanki.Entity\\Yanki.Entity.csproj",
         "projectName": "Yanki.Entity",
-        "projectPath": "C:\\Users\\Oğuzhan\\Source\\Repos\\YankiElektronik-1\\Yanki.Entity\\Yanki.Entity.csproj",
-        "packagesPath": "C:\\Users\\Oğuzhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oğuzhan\\Source\\Repos\\YankiElektronik-1\\Yanki.Entity\\obj\\",
+        "projectPath": "C:\\Users\\Mustafa\\source\\repos\\YankiElektronik\\Yanki.Entity\\Yanki.Entity.csproj",
+        "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mustafa\\source\\repos\\YankiElektronik\\Yanki.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Oğuzhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -25,6 +27,7 @@
           "netstandard2.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -64,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }
